@@ -1,16 +1,7 @@
-# fitness
+# fitness (work in progress)
 
-A new Flutter project.
+Training Flutter project (https://www.youtube.com/watch?v=D4nhaszNW4o)
 
-## Getting Started
+Flutter application with healthy recipes and advice (in French).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20231023_130020_com example fitness](https://github.com/timotheegarot/fitness/assets/114923734/b7cefb34-4c3e-47ce-aab6-6f21e1c0881c)
