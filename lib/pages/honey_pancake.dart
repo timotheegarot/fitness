@@ -1,3 +1,4 @@
+import 'package:fitness/pages/app_bar.dart';
 import 'package:flutter/material.dart';
 
 class HoneyPancakeRecipe extends StatelessWidget {
@@ -16,9 +17,7 @@ class HoneyPancakeRecipe extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Pancake au miel'),
-      ),
+      appBar: appBar(context, "Pancake au miel"),
       body: SingleChildScrollView(
           child:
               Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
