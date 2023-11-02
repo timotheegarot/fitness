@@ -29,7 +29,7 @@ class DietModel {
         duration: '30mins',
         calorie: '180kcal',
         viewSelected: true,
-        boxColor: Color(0xff92A3FD)));
+        boxColor: const Color(0xff92A3FD)));
 
     diets.add(DietModel(
         name: 'Roti Kanai',
@@ -38,7 +38,7 @@ class DietModel {
         duration: '20mins',
         calorie: '230kcal',
         viewSelected: false,
-        boxColor: Color(0xffC58BF2)));
+        boxColor: const Color(0xffC58BF2)));
 
     return diets;
   }
